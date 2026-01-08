@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Mon Sep 15 17:47:17 2025
+# Process ID: 19984
+# Current directory: C:/Users/ya.zhuk/Desktop/POCP/lab_2/lab_2.sim/sim_1/behav/xsim
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14324 C:\Users\ya.zhuk\Desktop\POCP\lab_2\lab_2.sim\sim_1\behav\xsim\tb_mux_behav.wdb
+# Log file: C:/Users/ya.zhuk/Desktop/POCP/lab_2/lab_2.sim/sim_1/behav/xsim/vivado.log
+# Journal file: C:/Users/ya.zhuk/Desktop/POCP/lab_2/lab_2.sim/sim_1/behav/xsim\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_wave_database {C:\Users\ya.zhuk\Desktop\POCP\lab_2\lab_2.sim\sim_1\behav\xsim\tb_mux_behav.wdb}
+close_sim
